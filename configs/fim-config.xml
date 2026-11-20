@@ -2,5 +2,5 @@
   <disabled>no</disabled>
   <frequency>300</frequency>
   <scan_on_start>yes</scan_on_start>
-  <directories checkall=yes realtime=yes reportchanges=yes/var/www/html/directories
+  <directories checkall="yes" realtime="yes" reportchanges="yes">/var/www/html</directories>
 </syscheck>
